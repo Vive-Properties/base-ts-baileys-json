@@ -13,7 +13,7 @@ import { BaileysProvider as Provider } from "@builderbot/provider-baileys";
 import { typing } from "./utils/presence";
 import { toAsk, httpInject } from "@builderbot-plugins/openai-assistants";
 
-const PORT = process.env.PORT ?? 3008;
+const PORT = process.env.PORT ?? 8080;
 const ASSISTANT_ID = process.env?.ASSISTANT_ID ?? "";
 let isWelcomeFlowCompleted = false;
 const userQueues = new Map();

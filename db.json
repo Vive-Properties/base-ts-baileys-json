@@ -1,68 +1,15 @@
 [
   {
-    "ref": "86949ee5-92cb-434a-acfc-31b0e58f350a",
-    "keyword": "308614d40f8949960b8557fc0f05629c",
-    "answer": "Him",
+    "ref": "124eccc6-c284-4c0e-a60f-039a7117e6b6",
+    "keyword": "e216d70d07f9b476916f1e15e506e18d",
+    "answer": "Hola",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "353eecc7615232b4bdc856dadfff8efd"
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
   },
   {
-    "ref": "ans_cf122844-9226-4dec-987a-886963d99af5",
-    "keyword": "key_1a64282b-5870-4216-a975-3db9e824c15d",
-    "answer": "Bienvenido a Tribu Living en qué puedo ayudarte?",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "e95a0858ba196b623ceee18f20c97d34",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_38163897-9813-4f2d-ab6e-cb6acf9b3359",
-    "keyword": "ans_cf122844-9226-4dec-987a-886963d99af5",
-    "answer": "__capture_only_intended__",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "77f41cc84319e901c7b8a097681c350a",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "b950b791-4055-4c83-ac01-ef649285f3a5",
-    "keyword": "77f41cc84319e901c7b8a097681c350a",
-    "answer": "Que es tribu",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "ec1614005c2dd41a584776312d7cfd16"
-  },
-  {
-    "ref": "ans_38163897-9813-4f2d-ab6e-cb6acf9b3359",
-    "keyword": "ans_cf122844-9226-4dec-987a-886963d99af5",
-    "answer": "__capture_only_intended__",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "77f41cc84319e901c7b8a097681c350a",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
+    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
+    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -72,11 +19,100 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
+    "refSerialize": "b920663347c310b029a44b56227787cd",
     "from": "5213338225755"
   },
   {
-    "ref": "00f64a1d-6e36-4db1-bdc4-ef888ab49e76",
+    "ref": "71418854-b715-444a-8c7a-ace650743d5e",
+    "keyword": null,
+    "answer": "El asistente ha finalizado la conversación, para iniciar una nueva conversación escribe \"hola tribu\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213338225755",
+    "refSerialize": "b0443d70eaa1c67461eb121c87953c6c"
+  },
+  {
+    "ref": "238dcd9e-c82f-4f34-a057-dbd05429983c",
+    "keyword": "b920663347c310b029a44b56227787cd",
+    "answer": "Hola tribu",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "66065619970334ec3f2c7ace1de0a4ca"
+  },
+  {
+    "ref": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
+    "keyword": "key_76d061f3-fe1e-4677-8b77-dad43508e082",
+    "answer": "Bienvenido a Tribu Living en qué puedo ayudarte?",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9328c4453b0b2384e9b69dbf9e887e8b",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "ans_0aac410f-8866-4b6e-b6a9-8ca0302b4b56",
+    "keyword": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "54fde742a86e74f029e3238d4fbcd773",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "3e430530-baad-40d5-87e9-6a212c6d3e76",
+    "keyword": "54fde742a86e74f029e3238d4fbcd773",
+    "answer": "Que es tribu",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "ec1614005c2dd41a584776312d7cfd16"
+  },
+  {
+    "ref": "ans_0aac410f-8866-4b6e-b6a9-8ca0302b4b56",
+    "keyword": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "54fde742a86e74f029e3238d4fbcd773",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
+    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "73574ecf-29db-45f8-8679-8d9e8c802cc7",
     "keyword": null,
     "answer": "Tribu Coliving es nuestra marca que se encarga de la renta de departamentos e inmuebles, así como de la adquisición de propiedades y venta de tickets de inversión. Si deseas más información, puedo comunicarte con un experto en el área. ¿Te gustaría que te ayude con eso?",
     "options": {
@@ -89,16 +125,16 @@
     "refSerialize": "7f243997b08ff80bdd83d48e35adedd4"
   },
   {
-    "ref": "ab0dfd25-fafd-4ba6-b572-633eea5b0d32",
-    "keyword": "e216d70d07f9b476916f1e15e506e18d",
-    "answer": "So",
+    "ref": "352a21e1-f693-4846-b046-82c305756476",
+    "keyword": "b920663347c310b029a44b56227787cd",
+    "answer": "Ok",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "c68d4c4ba32f9b220b5d012bc8203c04"
+    "refSerialize": "22fee25cab8d39a177372d8d21e7a34c"
   },
   {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
+    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
+    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -108,51 +144,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
+    "refSerialize": "b920663347c310b029a44b56227787cd",
     "from": "5213338225755"
   },
   {
-    "ref": "81ddb0bf-e97f-41a4-a4f8-fdb6e60803d1",
-    "keyword": "e216d70d07f9b476916f1e15e506e18d",
-    "answer": "Si",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
-  },
-  {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ec6e9271-3652-4e17-ba46-613e054ad034",
+    "ref": "73293695-54c2-4c7a-ae84-a8c8a9f45256",
     "keyword": null,
-    "answer": "No puedo responder a esa pregunta. Si tienes alguna otra duda relacionada con nuestros servicios, estaré encantado de ayudarte.",
+    "answer": "Por favor, proporciona tus datos de contacto para que pueda comunicarte con el experto en Tribu Coliving.",
     "options": {
       "media": null,
       "buttons": [],
@@ -160,12 +158,35 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "74dec9bf36dfbede97455666367c8ed6"
+    "refSerialize": "6249e3ecab52209fc24b8d898a149a46"
   },
   {
-    "ref": "72c489ee-f179-423c-887a-49aea52228b4",
+    "ref": "bda0d774-7707-43b4-9b4f-fd1962bc1903",
+    "keyword": "b920663347c310b029a44b56227787cd",
+    "answer": "Ok",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "22fee25cab8d39a177372d8d21e7a34c"
+  },
+  {
+    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
+    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "96e6fa5c-9b20-4bbc-93f2-0a340aa853b5",
     "keyword": null,
-    "answer": "¿Tienes alguna pregunta específica sobre nuestros servicios de Vive Properties? Estoy aquí para ayudarte.",
+    "answer": "Si deseas continuar, por favor escribe \"hablar con un asesor\" o \"agendar una cita\" para que podamos seguir con el proceso.",
     "options": {
       "media": null,
       "buttons": [],
@@ -173,19 +194,19 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "2eb5273f532f8485744eb278c89592a5"
+    "refSerialize": "f252018f6e988fcd7117dbce6933b5f0"
   },
   {
-    "ref": "2067fee3-5a61-473a-94b5-16ac83063f8c",
-    "keyword": "e216d70d07f9b476916f1e15e506e18d",
-    "answer": "Quiero hablar con alguien",
+    "ref": "217a9196-d898-4014-a8c8-94a643adf4c4",
+    "keyword": "b920663347c310b029a44b56227787cd",
+    "answer": "Hola",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "0f777f0933086e0243ce84627ee59f6c"
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
   },
   {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
+    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
+    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -195,13 +216,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
+    "refSerialize": "b920663347c310b029a44b56227787cd",
     "from": "5213338225755"
   },
   {
-    "ref": "4d43e9bd-ab5d-4ef8-838b-a2baa11b9ee3",
+    "ref": "64c9b36f-f70e-4ab4-8ba3-f33716364e70",
     "keyword": null,
-    "answer": "Claro, puedes escribir \"hablar con un asesor\" o \"agendar una cita\" para continuar con el proceso y que te contacten. Estoy aquí para ayudarte.",
+    "answer": "¡Hola! ¿En qué puedo ayudarte hoy? Si tienes alguna pregunta sobre nuestros servicios de Vive Properties, estaré encantado de asistirte.",
     "options": {
       "media": null,
       "buttons": [],
@@ -209,186 +230,6 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "3c72551d2f37cb0d37252e2ebffe59bf"
-  },
-  {
-    "ref": "a3bb670e-fe6a-49d3-a7c2-f0ce118fd327",
-    "keyword": "e216d70d07f9b476916f1e15e506e18d",
-    "answer": "Agendar una cita",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "3bac49f655fb7c007cdf73c55ccd142c"
-  },
-  {
-    "ref": "ans_3eb174be-317d-4792-883c-c9a5ce33b9e0",
-    "keyword": "key_9f4c9903-6511-4dd5-991a-44eb04ad9dba",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "50c27063362c2534d425c1abf8516f98",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_34347e8d-282c-46f7-ac56-6fb27d229dd3",
-    "keyword": "ans_3eb174be-317d-4792-883c-c9a5ce33b9e0",
-    "answer": "Para que podamos contactarnos contigo necesito que me proporciones algunos datos. Si deseas cancelar y volver al inicio escribe \"cancelar\"\n        \n¿Cuál es tu nombre?",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "0e95a9302c57f7b57618719fcf35e06c",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_6f06fa90-fdcb-43bb-91d2-97d126144332",
-    "keyword": "ans_34347e8d-282c-46f7-ac56-6fb27d229dd3",
-    "answer": "__capture_only_intended__",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "fd314b3efa8268a96310a100a054d78f",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "cb747ec5-0753-4a8d-ae8a-33598a3d6e2c",
-    "keyword": "fd314b3efa8268a96310a100a054d78f",
-    "answer": "Lili",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "6c53ce5fc943e8361ad0a36e3044ed48"
-  },
-  {
-    "ref": "ans_74c5b6d1-aa74-4aa5-ac76-aeb9ea76b912",
-    "keyword": "ans_6f06fa90-fdcb-43bb-91d2-97d126144332",
-    "answer": "¿Cual es tu correo?",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "30e79e11575a8f8fbecae0277c1d5f98",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_19e74fea-cdec-4ec9-a5d8-d77aa546b65c",
-    "keyword": "ans_74c5b6d1-aa74-4aa5-ac76-aeb9ea76b912",
-    "answer": "__capture_only_intended__",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "a93acc557771b2b7194497cc1a4a6303",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "122b3519-156d-4481-a51d-95eda4b46831",
-    "keyword": "a93acc557771b2b7194497cc1a4a6303",
-    "answer": "Lili@gmail.com",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "bb6be21162845d44665dd22f93f6842c"
-  },
-  {
-    "ref": "ans_8e97b2eb-8452-46a6-8067-8a902120a246",
-    "keyword": "ans_19e74fea-cdec-4ec9-a5d8-d77aa546b65c",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "c97e7f01f3198502747e6f906e2f1cc8",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_3bd56ae9-e33b-4ce8-9dc0-742311fde571",
-    "keyword": "ans_8e97b2eb-8452-46a6-8067-8a902120a246",
-    "answer": "Gracias, en breve nos comunicaremos contigo",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "9e161a751c71b510721d9e8fc2d76ed2",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "ans_91dc3667-52de-412d-a678-ed0b2e303c3c",
-    "keyword": "ans_3bd56ae9-e33b-4ce8-9dc0-742311fde571",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "a7e086293d29e49fcaa38f60996a2f2d",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "bb92da13-4094-4ab7-8e13-1d77e5c5011b",
-    "keyword": "a7e086293d29e49fcaa38f60996a2f2d",
-    "answer": "Gracias",
-    "options": {},
-    "from": "5213338225755",
-    "refSerialize": "3226ec288e2932f3764e3bb27096c694"
-  },
-  {
-    "ref": "ans_5b150a00-7e17-48bd-b67f-1f6888bf1a85",
-    "keyword": "key_60a57869-3c0f-4199-8703-bec0292928cc",
-    "answer": "__call_action__",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "e216d70d07f9b476916f1e15e506e18d",
-    "from": "5213338225755"
-  },
-  {
-    "ref": "05902c50-278e-49f7-93c8-533d7ed1a0e8",
-    "keyword": null,
-    "answer": "El asistente ha finalizado la conversación, para iniciar una nueva conversación escribe \"hola tribu\".",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5213338225755",
-    "refSerialize": "b0443d70eaa1c67461eb121c87953c6c"
+    "refSerialize": "56ccb7a0853e0720f6e76d2488150210"
   }
 ]
