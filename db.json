@@ -1,15 +1,15 @@
 [
   {
-    "ref": "124eccc6-c284-4c0e-a60f-039a7117e6b6",
-    "keyword": "e216d70d07f9b476916f1e15e506e18d",
-    "answer": "Hola",
+    "ref": "55e5a3f8-929d-4969-b5f0-5eec667303c1",
+    "keyword": "6ab99b978a5e99523110bd014c9f1c75",
+    "answer": "👋🏻",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+    "refSerialize": "b2d8846e9a43a038f1156790001ae12e"
   },
   {
-    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
-    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -19,13 +19,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
     "from": "5213338225755"
   },
   {
-    "ref": "71418854-b715-444a-8c7a-ace650743d5e",
+    "ref": "44ee5310-c10c-4a2e-bda0-7b47a6bbe3b3",
     "keyword": null,
-    "answer": "El asistente ha finalizado la conversación, para iniciar una nueva conversación escribe \"hola tribu\".",
+    "answer": "Para comenzar una nueva conversación escribe \"Hola Vive Properties\".",
     "options": {
       "media": null,
       "buttons": [],
@@ -33,20 +33,20 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "b0443d70eaa1c67461eb121c87953c6c"
+    "refSerialize": "d57b1ae68c743a1574333239e8734b7b"
   },
   {
-    "ref": "238dcd9e-c82f-4f34-a057-dbd05429983c",
-    "keyword": "b920663347c310b029a44b56227787cd",
-    "answer": "Hola tribu",
+    "ref": "3c58cb1f-43a6-4117-8e8e-ca5400c3327a",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "Hola vive properties",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "66065619970334ec3f2c7ace1de0a4ca"
+    "refSerialize": "0577c863451a86dbe2a8af71430a4071"
   },
   {
-    "ref": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
-    "keyword": "key_76d061f3-fe1e-4677-8b77-dad43508e082",
-    "answer": "Bienvenido a Tribu Living en qué puedo ayudarte?",
+    "ref": "ans_f937f0f1-e71b-4f51-91cf-3edf1eeb59ac",
+    "keyword": "key_0e1bbf07-c19d-4b86-b8d8-218cdf55c9cb",
+    "answer": "Bienvenido a Vive Properties en qué puedo ayudarte?",
     "options": {
       "buttons": [],
       "capture": false,
@@ -55,12 +55,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "9328c4453b0b2384e9b69dbf9e887e8b",
+    "refSerialize": "c69fdc2e10089bfb9716d3057bcc8904",
     "from": "5213338225755"
   },
   {
-    "ref": "ans_0aac410f-8866-4b6e-b6a9-8ca0302b4b56",
-    "keyword": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
+    "ref": "ans_be59d5be-e7ba-4182-b396-ebb3d496ae45",
+    "keyword": "ans_f937f0f1-e71b-4f51-91cf-3edf1eeb59ac",
     "answer": "__capture_only_intended__",
     "options": {
       "buttons": [],
@@ -70,20 +70,20 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "54fde742a86e74f029e3238d4fbcd773",
+    "refSerialize": "396fe3333c666ebf2105c31d0dd036ea",
     "from": "5213338225755"
   },
   {
-    "ref": "3e430530-baad-40d5-87e9-6a212c6d3e76",
-    "keyword": "54fde742a86e74f029e3238d4fbcd773",
-    "answer": "Que es tribu",
+    "ref": "e703941f-98a3-43e4-b12c-0e059638939d",
+    "keyword": "396fe3333c666ebf2105c31d0dd036ea",
+    "answer": "¿Dónde puedo encontrar una buena asesoría legal?",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "ec1614005c2dd41a584776312d7cfd16"
+    "refSerialize": "62e27f64157f49310a6683a147c10afb"
   },
   {
-    "ref": "ans_0aac410f-8866-4b6e-b6a9-8ca0302b4b56",
-    "keyword": "ans_48716ebe-f6d1-4fed-92d8-98c0531d1957",
+    "ref": "ans_be59d5be-e7ba-4182-b396-ebb3d496ae45",
+    "keyword": "ans_f937f0f1-e71b-4f51-91cf-3edf1eeb59ac",
     "answer": "__capture_only_intended__",
     "options": {
       "buttons": [],
@@ -93,12 +93,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "54fde742a86e74f029e3238d4fbcd773",
+    "refSerialize": "396fe3333c666ebf2105c31d0dd036ea",
     "from": "5213338225755"
   },
   {
-    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
-    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -108,13 +108,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
     "from": "5213338225755"
   },
   {
-    "ref": "73574ecf-29db-45f8-8679-8d9e8c802cc7",
+    "ref": "00355c55-359a-4ed1-a1cb-5b1679c2f31d",
     "keyword": null,
-    "answer": "Tribu Coliving es nuestra marca que se encarga de la renta de departamentos e inmuebles, así como de la adquisición de propiedades y venta de tickets de inversión. Si deseas más información, puedo comunicarte con un experto en el área. ¿Te gustaría que te ayude con eso?",
+    "answer": "Lamentablemente, no puedo responder a esa pregunta. Si tienes alguna consulta relacionada con nuestros servicios en Vive Properties, estaré encantado de ayudarte.",
     "options": {
       "media": null,
       "buttons": [],
@@ -122,19 +122,19 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "7f243997b08ff80bdd83d48e35adedd4"
+    "refSerialize": "c79f26a44285cd45f1b2b1a096f65ce2"
   },
   {
-    "ref": "352a21e1-f693-4846-b046-82c305756476",
-    "keyword": "b920663347c310b029a44b56227787cd",
-    "answer": "Ok",
+    "ref": "1ea62541-767c-4860-9a54-fb4010408ab6",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "¿Qué características debo buscar en un buen contrato de arrendamiento?",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "22fee25cab8d39a177372d8d21e7a34c"
+    "refSerialize": "4408a96daf4d79206178ca7a06769511"
   },
   {
-    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
-    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -144,13 +144,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
     "from": "5213338225755"
   },
   {
-    "ref": "73293695-54c2-4c7a-ae84-a8c8a9f45256",
+    "ref": "1977a21b-15ca-4c6d-9b7d-aa09c79ee39a",
     "keyword": null,
-    "answer": "Por favor, proporciona tus datos de contacto para que pueda comunicarte con el experto en Tribu Coliving.",
+    "answer": "Lamentablemente, no puedo responder a esa pregunta. Si tienes alguna consulta relacionada con nuestros servicios en Vive Properties, estaré encantado de ayudarte.",
     "options": {
       "media": null,
       "buttons": [],
@@ -158,19 +158,19 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "6249e3ecab52209fc24b8d898a149a46"
+    "refSerialize": "c79f26a44285cd45f1b2b1a096f65ce2"
   },
   {
-    "ref": "bda0d774-7707-43b4-9b4f-fd1962bc1903",
-    "keyword": "b920663347c310b029a44b56227787cd",
-    "answer": "Ok",
+    "ref": "4669270a-afd2-40eb-b4a9-decb157b5a76",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "¿Qué sucede si un huésped causa daños en mi propiedad?",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "22fee25cab8d39a177372d8d21e7a34c"
+    "refSerialize": "5a0bbd6a8b664d007ea1ab08acca34fe"
   },
   {
-    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
-    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -180,13 +180,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
     "from": "5213338225755"
   },
   {
-    "ref": "96e6fa5c-9b20-4bbc-93f2-0a340aa853b5",
+    "ref": "97b8329b-ce15-4c49-b2e1-6039668b2651",
     "keyword": null,
-    "answer": "Si deseas continuar, por favor escribe \"hablar con un asesor\" o \"agendar una cita\" para que podamos seguir con el proceso.",
+    "answer": "En caso de daños causados por un huésped, contamos con un seguro que protege tanto al propietario como al huésped. Esto asegura que cualquier daño sea cubierto adecuadamente. Si tienes más preguntas sobre nuestros servicios, no dudes en preguntar.",
     "options": {
       "media": null,
       "buttons": [],
@@ -194,19 +194,19 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "f252018f6e988fcd7117dbce6933b5f0"
+    "refSerialize": "6d9429cf397861416e3f56316771ac21"
   },
   {
-    "ref": "217a9196-d898-4014-a8c8-94a643adf4c4",
-    "keyword": "b920663347c310b029a44b56227787cd",
-    "answer": "Hola",
+    "ref": "b8eb4108-9149-4781-9edf-153ff1f86864",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "¿Tienen alguna recomendación sobre qué tipo de propiedades tienen mayor demanda en plataformas como Airbnb o Booking?",
     "options": {},
     "from": "5213338225755",
-    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+    "refSerialize": "33d4c5544dd7e0af53de0673117836d9"
   },
   {
-    "ref": "ans_3329b37c-bae9-4681-b541-ae089f81bc4c",
-    "keyword": "key_74fc17f8-625d-45ca-bdf3-c46111d94dfa",
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -216,13 +216,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "b920663347c310b029a44b56227787cd",
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
     "from": "5213338225755"
   },
   {
-    "ref": "64c9b36f-f70e-4ab4-8ba3-f33716364e70",
+    "ref": "1e244be5-2807-4790-80d5-f9a790e462a2",
     "keyword": null,
-    "answer": "¡Hola! ¿En qué puedo ayudarte hoy? Si tienes alguna pregunta sobre nuestros servicios de Vive Properties, estaré encantado de asistirte.",
+    "answer": "Lamentablemente, no puedo responder a esa pregunta. Si tienes alguna consulta relacionada con nuestros servicios en Vive Properties, estaré encantado de ayudarte.",
     "options": {
       "media": null,
       "buttons": [],
@@ -230,6 +230,122 @@
       "delay": 0
     },
     "from": "5213338225755",
-    "refSerialize": "56ccb7a0853e0720f6e76d2488150210"
+    "refSerialize": "c79f26a44285cd45f1b2b1a096f65ce2"
+  },
+  {
+    "ref": "904a1a3e-9b2b-4360-a676-4826ff11170c",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "¿Cómo aseguran que mi propiedad mantenga una alta ocupación durante todo el año?",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "007bdd10dc406fea98cf5df06eae6e9d"
+  },
+  {
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "e044fedc-ab32-4a96-8c0d-d3ed5ebcffa5",
+    "keyword": null,
+    "answer": "Utilizamos estrategias avanzadas para maximizar la ocupación y los ingresos de tu propiedad. Esto incluye análisis de mercado en tiempo real para establecer precios competitivos y atractivos, así como marketing digital y promoción en plataformas clave. Si deseas más información sobre nuestros planes, házmelo saber.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213338225755",
+    "refSerialize": "f1529588d73ef61250441f9f4521ce26"
+  },
+  {
+    "ref": "9b9276b3-c0ed-4b08-a377-ef64880eb8c2",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "Tengo un edificio que quiero poner en renta",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "1fe531ef2df8a2348d6f2fea679aa85b"
+  },
+  {
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "5a1ad06e-1a63-427f-a9d7-aea1031e6998",
+    "keyword": null,
+    "answer": "¿Te gustaría que te ayudemos a administrarlo como propietario? Si es así, puedo proporcionarte información sobre nuestros planes de gestión de propiedades.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213338225755",
+    "refSerialize": "96d606d2969e870588bf509e6d9b8849"
+  },
+  {
+    "ref": "42fba263-4085-479a-abca-4bc225d5c765",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "¿Pueden ayudarme a invertir en propiedades fuera de Guadalajara?",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "156ffe226d5492cad369ded8bb00e942"
+  },
+  {
+    "ref": "ans_8602afcd-edaf-4f97-b430-b2507c275368",
+    "keyword": "key_fa06ecb8-f356-482a-821a-ba9358af4681",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "from": "5213338225755"
+  },
+  {
+    "ref": "65cfd102-7a9a-42bb-a0d1-ffdf356221fd",
+    "keyword": null,
+    "answer": "Lamentablemente, no puedo responder a esa pregunta. Si tienes alguna consulta relacionada con nuestros servicios en Vive Properties, estaré encantado de ayudarte.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213338225755",
+    "refSerialize": "c79f26a44285cd45f1b2b1a096f65ce2"
+  },
+  {
+    "ref": "ec8a79e1-03de-4c2d-8c9b-c6eec58064ae",
+    "keyword": "b40c41961d7f33e63fadb6d0ab80c43e",
+    "answer": "_event_document__8c1e219f-ea14-4e8b-91e0-e8a6d81e52eb",
+    "options": {},
+    "from": "5213338225755",
+    "refSerialize": "41acd27275086c572c5c317fd8688614"
   }
 ]

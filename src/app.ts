@@ -89,7 +89,7 @@ const processUserMessage = async (ctx, { flowDynamic, state, provider }) => {
     await flowDynamic([
       {
         capture: false,
-        body: `El asistente ha finalizado la conversación, para iniciar una nueva conversación escribe "Hola Vive".`,
+        body: `Para comenzar una nueva conversación escribe "Hola Vive Properties".`,
       },
     ]);
   }
@@ -140,7 +140,7 @@ const aiFlow = addKeyword<Provider, Database>(EVENTS.WELCOME).addAction(
     }
   }
 );
-const callFlow = addKeyword(["asesor", "cita"])
+const callFlow = addKeyword(["hablar con un asesor", "agendar una cita"])
   .addAction((state) => {
     console.log(state);
   })
@@ -153,7 +153,7 @@ const callFlow = addKeyword(["asesor", "cita"])
       if (userContext === "cancelar") {
         isWelcomeFlowCompleted = false;
         return endFlow(
-          `Has finalizado la conversación, para iniciar una nueva escribe "hola tribu"`
+          `Has finalizado la conversación, para iniciar una nueva escribe "Hola Vive Properties"`
         );
       }
       await state.update({ nombre: ctx.body });
@@ -167,7 +167,7 @@ const callFlow = addKeyword(["asesor", "cita"])
       if (userContext === "cancelar") {
         isWelcomeFlowCompleted = false;
         return endFlow(
-          `Has finalizado la conversación, para iniciar una nueva escribe "Hola Vive"`
+          `Has finalizado la conversación, para iniciar una nueva escribe "Hola Vive Properties"`
         );
       }
       if (!ctx.body.includes("@") && !ctx.body.includes(".")) {
@@ -207,7 +207,7 @@ const callFlow = addKeyword(["asesor", "cita"])
   })
   .addAnswer("Gracias, en breve nos comunicaremos contigo");
 
-const welcomeFlow = addKeyword<Provider, Database>("hola tribu")
+const welcomeFlow = addKeyword<Provider, Database>("hola vive properties")
   .addAnswer("Bienvenido a Vive Properties en qué puedo ayudarte?")
   .addAction(
     { capture: true },
